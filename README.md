@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m gratuted from Alazhar Engineering by Exellent grade (91.57%)
-
 - 🌱 I’m currently learning FrontEnd Development
 - 👯 I’m looking to collaborate on some web projects.
 - 💬 Ask me about web technologies
